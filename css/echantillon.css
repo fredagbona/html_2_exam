@@ -1,0 +1,44 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  body {
+    text-align: center;
+  }
+  .main-header {
+    padding-bottom: 15%;
+    width: 100%;
+    background-size: cover;
+    background-image: url("../images/header.jpg");
+    background-attachment: fixed;
+  }
+  /* ​ */
+  header {
+  }
+  header ul {
+  }
+  header ul a {
+  }
+  header li {
+  }
+  header ul:after {
+  }
+  /* Implémentation de la partie d'en-tête */
+  .main-header img {
+  /* Implémentation de l'image principale (image des caractères blancs "Achieve") */
+  }
+  .about {
+  /* About Implémentation de la partie Achieve */
+  }
+  /* ​ */
+  .function {
+  }
+  .function-images {
+  }
+  .function-image {
+  }
+  /* Implémentation de la partie Function */
+  footer {
+  /* Implémentation du pied de page */
+  }
+  
